@@ -1,20 +1,20 @@
-# 🚀 Responsive Design Course Project
+# 🚀 Responsive Design 
 
 Bienvenue dans le projet de cours sur le responsive design en HTML et CSS ! Ce dépôt contient le code source d'une page HTML responsive que vous pouvez utiliser pour apprendre et pratiquer le responsive design.
 
 
-![Responsive Design](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx5NW43eWhlenc2Y2R4b3hlNTc1bzRxNjJseHBhMmZ0bjVjZjR5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TXJiSN8vCERuE/giphy.webp)
+![Excitation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx5NW43eWhlenc2Y2R4b3hlNTc1bzRxNjJseHBhMmZ0bjVjZjR5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TXJiSN8vCERuE/giphy.webp)
 
 ## 📝 Description
 
 Ce projet est une simple page HTML qui utilise CSS pour créer un design responsive. La page comprend un en-tête, une section avec du texte et une image dans une barre latérale. Le design s'adapte automatiquement à différentes tailles d'écran.
 
-## 🛠️ Technologies Utilisées
+## 🛠️ Technologies utilisées
 
 - HTML
 - CSS
 
-## 📁 Structure du Projet
+## 📁 Structure du projet
 
 ```
 responsive-design/
@@ -26,7 +26,7 @@ responsive-design/
 └── README.md
 ```
 
-## 💻 Comment Utiliser
+## 💻 Comment utiliser
 
 1. Clonez ce dépôt sur votre machine locale :
    ```sh
