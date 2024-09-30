@@ -46,4 +46,3 @@ Pour toute question ou suggestion, vous pouvez me contacter à [printf0cherif@gm
 ---
 
 Merci d'avoir visité ce dépôt ! J'espère que vous trouverez ce projet utile pour apprendre le responsive design. 😊
-```
