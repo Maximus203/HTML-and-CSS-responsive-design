@@ -12,41 +12,127 @@
             font-family: 'Montserrat';
         }
 
-        main {
-            display: flex;
-            justify-content: space-between;
+        @media (min-width: 960px) {
+            main {
+                display: flex;
+                justify-content: space-between;
+            }
+
+            header {
+                font-size: 2em;
+                text-align: center;
+                padding: .5em 0em;
+                background-color: #8a78e8;
+                color: #f9f9f9;
+            }
+
+            h2 {
+                background-color: #4b459c;
+                text-align: center;
+                color: #f9f9f9;
+            }
+
+            p {
+                text-align: justify;
+            }
+
+            section {
+                margin: 2em 10em;
+                line-height: 2.5;
+            }
+
+            aside,
+            section {
+                width: 45%;
+            }
+
+            img {
+                width: 95%;
+            }
         }
 
-        header {
-            font-size: 2em;
-            text-align: center;
-            padding: .5em 0em;
-            background-color: #8a78e8;
-            color: #f9f9f9;
+        @media (min-width: 767px) and (max-width: 960px) {
+            main {
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            }
+
+            header {
+                font-size: 1.8em;
+                text-align: center;
+                padding: 1em 0em;
+                background-color: #8a78e8;
+                color: #f9f9f9;
+            }
+
+            h2 {
+                background-color: #4b459c;
+                text-align: center;
+                color: #f9f9f9;
+                margin-bottom: 1em;
+            }
+
+            p {
+                text-align: justify;
+            }
+
+            section {
+                line-height: 2;
+            }
+
+            aside,
+            section {
+                width: 80%;
+                margin: 2em auto;
+            }
+
+            img {
+                width: 95%;
+            }
+
         }
 
-        h2 {
-            background-color: #4b459c;
-            text-align: center;
-            color: #f9f9f9;
-        }
+        @media (max-width: 767px) {
+            main {
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            }
 
-        p {
-            text-align: justify;
-        }
+            header {
+                font-size: 1.2em;
+                text-align: center;
+                padding: 1em 0em;
+                background-color: #8a78e8;
+                color: #f9f9f9;
+            }
 
-        section {
-            margin: 2em 10em;
-            line-height: 2.5;
-        }
+            h2 {
+                background-color: #4b459c;
+                text-align: center;
+                color: #f9f9f9;
+            }
 
-        aside,
-        section {
-            width: 45%;
-        }
+            p {
+                text-align: justify;
+            }
 
-        img {
-            width: 95%;
+            section {
+                line-height: 1.8;
+            }
+
+            aside,
+            section {
+                width: 98%;
+                margin: 2em auto;
+            }
+
+            img {
+                width: 100%;
+                background-color: #4b459c;
+            }
+
         }
     </style>
 </head>
