@@ -51,4 +51,3 @@ Ce projet est sous licence MIT. Pour plus de détails, veuillez consulter le fic
 ---
 
 Merci d'avoir visité ce dépôt ! J'espère que vous trouverez ce projet utile pour apprendre le responsive design. 😊
-```
