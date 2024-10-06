@@ -43,6 +43,11 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions ou des amé
 
 Pour toute question ou suggestion, vous pouvez me contacter à [printf0cherif@gmail.com](mailto:printf0cherif@gmail.com).
 
+
+## 🔑 Licence
+
+Ce projet est sous licence MIT. Pour plus de détails, veuillez consulter le fichier [LICENCE](LICENSE) dans ce dépôt.
+
 ---
 
 Merci d'avoir visité ce dépôt ! J'espère que vous trouverez ce projet utile pour apprendre le responsive design. 😊
